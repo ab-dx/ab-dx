@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab-dx" alt="ab-dx" /></a> </p>
 - 🌱 I’m currently learning 
- · Low Level Programming
- · Statistical Learning
- · Full-stack Web Development
+ - Low Level Programming
+ - Statistical Learning
+ - Full-stack Web Development
  
 - 👯 I’m looking to collaborate on ...
-  · Web Development
+  - Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
